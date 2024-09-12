@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 #'===============================================================================
 #' You will need to have the tidyverse, raw and janitor packages installed. We 
 #' only use one function from janitor, so don't need to load it into memory.
